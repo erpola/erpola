@@ -48,5 +48,5 @@ Currently building resilient Kubernetes platforms and developer tooling at **The
 ## Let's Connect
 
 **GitHub:** [@erpola](https://github.com/erpola)  
-**LinkedIn:** [linkedin.com/in/ericpolanco](https://linkedin.com/in/ericjpolanco)  
+**LinkedIn:** [linkedin.com/in/ericjpolanco](https://linkedin.com/in/ericjpolanco)  
 **Email:** [eric@polanco.sh](mailto:eric@polanco.sh)
