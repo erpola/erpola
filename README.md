@@ -16,7 +16,7 @@
   </a>
 </p>
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 <div align="center" style="background-color: white; padding: 10px; display: inline-block; border-radius: 8px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" />
@@ -43,7 +43,7 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30" />
 </div>
 
-## 🏅 Certifications
+## Certifications
 
 <p align="center">
   <img alt="AWS Certified DevOps Engineer" src="https://custom-icon-badges.demolab.com/badge/AWS_DevOps_Engineer_Professional-232F3E?style=for-the-badge&logo=aws&logoColor=white" />
