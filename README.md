@@ -16,8 +16,6 @@
   </a>
 </p>
 
----
-
 ## ⚙️ Tech Stack
 
 <div align="center" style="background-color: white; padding: 10px; display: inline-block; border-radius: 8px;">
@@ -44,8 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30" />
 </div>
-
----
 
 ## 🏅 Certifications
 
