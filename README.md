@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:eric.polanco@e3.run">
-    <img alt="Email" src="https://custom-icon-badges.demolab.com/badge/Email-eric@polanco.sh-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://custom-icon-badges.demolab.com/badge/Email-eric.polanco@e3.run-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/ericjpolanco">
     <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-ericjpolanco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
