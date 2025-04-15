@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:eric@polanco.sh">
+  <a href="mailto:eric.polanco@e3.run">
     <img alt="Email" src="https://custom-icon-badges.demolab.com/badge/Email-eric@polanco.sh-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/ericjpolanco">
